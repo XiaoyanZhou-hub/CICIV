@@ -1,6 +1,4 @@
 # CICIV
-code and data processing scripts for CICIV breast cancer driver gene analysis.
-# CICIV
 
 A Causality-Based Framework for Identifying Drivers of Breast Cancer Progression
 
