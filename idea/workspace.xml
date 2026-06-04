@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed968d15-b3c5-41b1-9287-d508f50a9022" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="86c1a59d-0034-4f61-b406-22e50166071d" />
+  <component name="ProjectId" id="31UF4h8rI6OfbmrsOvDJC7D9O3M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.FCI">
+    <configuration name="FCI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bib-jiaojie(1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bib-jiaojie/FCI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bib-jiaojie/FCI/FCI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FCIzhenduan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bib-jiaojie(1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bib-jiaojie/FCI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bib-jiaojie/FCI/FCIzhenduan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run_DCIVVAE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bib-jiaojie(1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bib-jiaojie/DVAE.CIV/DVAE.CIV-main/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bib-jiaojie/DVAE.CIV/DVAE.CIV-main/Code/Run_DCIVVAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bib-jiaojie(1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bib-jiaojie/DVAE.CIV/DVAE.CIV-main/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bib-jiaojie/DVAE.CIV/DVAE.CIV-main/Code/datasets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_PC (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bib-jiaojie(1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pyCausalFS/CBD" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pyCausalFS/CBD/example_PC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FCI" />
+        <item itemvalue="Python.example_PC (1)" />
+        <item itemvalue="Python.FCIzhenduan" />
+        <item itemvalue="Python.Run_DCIVVAE" />
+        <item itemvalue="Python.datasets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed968d15-b3c5-41b1-9287-d508f50a9022" name="Default Changelist" comment="" />
+      <created>1755570554198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755570554198</updated>
+      <workItem from="1755570555585" duration="118000" />
+      <workItem from="1755570676017" duration="1442000" />
+      <workItem from="1755576276205" duration="391000" />
+      <workItem from="1755580104048" duration="845000" />
+      <workItem from="1755580953539" duration="5311000" />
+      <workItem from="1755656474761" duration="864000" />
+      <workItem from="1755657347657" duration="8075000" />
+      <workItem from="1755775289328" duration="913000" />
+      <workItem from="1755776338129" duration="2477000" />
+      <workItem from="1755850671021" duration="2310000" />
+      <workItem from="1755914585994" duration="8077000" />
+      <workItem from="1756089996721" duration="1996000" />
+      <workItem from="1756286293822" duration="2704000" />
+      <workItem from="1757090842523" duration="5085000" />
+      <workItem from="1757120871056" duration="9141000" />
+      <workItem from="1758089588707" duration="2142000" />
+      <workItem from="1758258098560" duration="4990000" />
+      <workItem from="1758300757421" duration="1996000" />
+      <workItem from="1758304521060" duration="2781000" />
+      <workItem from="1759652469937" duration="90000" />
+      <workItem from="1760964537070" duration="2016000" />
+      <workItem from="1764566497415" duration="933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1755576415186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1755576415186" />
+    <state x="363" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1755588708966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1755588708966" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1755657343732">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1755657343732" />
+    <state width="1237" height="279" key="GridCell.Tab.0.bottom" timestamp="1760966779405">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1760966779405" />
+    <state width="1237" height="279" key="GridCell.Tab.0.center" timestamp="1760966779405">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1760966779405" />
+    <state width="1237" height="279" key="GridCell.Tab.0.left" timestamp="1760966779405">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1760966779405" />
+    <state width="1237" height="279" key="GridCell.Tab.0.right" timestamp="1760966779405">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="279" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1760966779405" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1760965565526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1760965565526" />
+    <state x="522" y="71" key="ftp.server.browser" timestamp="1760964888151">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="522" y="71" key="ftp.server.browser/0.0.1280.680@0.0.1280.680" timestamp="1760964888151" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1755851885623">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1755851885623" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$MBOR.coverage" NAME="MBOR Coverage Results" MODIFIED="1755658369307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pyCausalFS/CBD/MBs" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$ci_tests.coverage" NAME="ci_tests Coverage Results" MODIFIED="1755581426022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pcalg-master/gsq" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$Run_DCIVVAE.coverage" NAME="Run_DCIVVAE Coverage Results" MODIFIED="1757124423127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/DVAE.CIV/DVAE.CIV-main/Code" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$condition_independence_test.coverage" NAME="condition_independence_test Coverage Results" MODIFIED="1755658359763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pyCausalFS/CBD/MBs/common" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$pc_numpy.coverage" NAME="pc_numpy Coverage Results" MODIFIED="1755582417433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pcalg-master" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$FCIzhenduan.coverage" NAME="FCIzhenduan Coverage Results" MODIFIED="1758301236331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/FCI" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$example_PC.coverage" NAME="example_PC Coverage Results" MODIFIED="1755656849232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pyCausalFS/CBD/example" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$datasets.coverage" NAME="datasets Coverage Results" MODIFIED="1755936369892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/DVAE.CIV/DVAE.CIV-main/Code" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$example_PC__1_.coverage" NAME="example_PC (1) Coverage Results" MODIFIED="1758306009343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pyCausalFS/CBD" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$DCIVVAE_gpu.coverage" NAME="DCIVVAE_gpu Coverage Results" MODIFIED="1755580557774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/DVAE.CIV/DVAE.CIV-main/Code" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$FCI.coverage" NAME="FCI Coverage Results" MODIFIED="1760964961984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/FCI" />
+    <SUITE FILE_PATH="coverage/Bib_jiaojie_1_$binary.coverage" NAME="binary Coverage Results" MODIFIED="1755581408526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bib-jiaojie/PC-simple/pcalg-master/gsq" />
+  </component>
+</project>
